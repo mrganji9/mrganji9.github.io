@@ -1,9 +1,5 @@
 # FordFolkerson Algorithm
 
-[Click for Live Demo](https://mrganji9.github.io/fordfolkerson/)
-
-# Graph-Theory-Ford-Fulkerson 
-
 > Ford-Fulkerson Algorithm for Maximum Flow Problem
 ## Introduction
 
@@ -20,14 +16,6 @@
 4. Repeat until you get stuck.
 
 ## Example
-
-*Consider the following graph*
-
-<img src="/AdvancedAlgorithms/VI Graph Algorithms/26 Maximum Flow/Ford-Folkerson/images/ford_fulkerson11.png">
-
-*Maximum possible flow in the given graph is 23*
-
-<img src="/AdvancedAlgorithms/VI Graph Algorithms/26 Maximum Flow/Ford-Folkerson/images/ford_fulkerson2.png">
 
 > graph definition in my js code
 ```javascript
